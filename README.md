@@ -4,15 +4,15 @@
 
 该项目旨在引导喜爱 `Android` 开发爱好者入门教程实例，可以一步一步的跟着来完成属于自己的项目开发过程。
 
-此项目为基于 `Java` 语言开发，使用 `RecyclerView` 多样式布局组件，`Rxjava2` 权限请求管理，与一些其他基础组件开发完成
+此项目为基于 `Kotlin` 语言开发，使用 `RecyclerView` 多样式布局组件，`Rxjava2` 权限请求管理，与一些其他基础组件开发完成
 
 实现上一曲、下一曲、开始/暂停、停止以及拖动进度条可以试试快进退正在播放的歌曲内容
 
 博客地址：[点击我哦~~~ https://blog.csdn.net/youxun1312/article/details/80356060](https://blog.csdn.net/youxun1312/article/details/80356060)
 
 
-## 基于 Java 语言版本
-### 更新内容 v2.1.0 2020-11-20
+## 新增 Kotlin 语言版本
+### 更新内容 v1.0.0 2020-11-20
 - 1.整体架构进行重写重构。封装基础页面类，基础适配器等
 - 2.使用最新的 `RecyclerView` 流式布局 + `RecyclerViewAdapter` 更灵活的进行控制渲染图层
 - 3.对手机目录文件不再单一指向 Music 文件夹，全盘扫描手机路径含有 music 文件夹。例如，`music/qqmusic/kgmusci/cloudmusic`

@@ -30,5 +30,4 @@
         <item name="navigationIcon">@drawable/navbar_icon_return</item>
         <item name="toolbarStyle">@style/NoSpaceActionBarTheme</item>
     </style>
-
 </resources>
