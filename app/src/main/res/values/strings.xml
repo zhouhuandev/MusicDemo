@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Music Java</string>
+    <string name="btn_last">上一首</string>
+    <string name="btn_star">播放/暂停</string>
+    <string name="btn_stop">停止</string>
+    <string name="btn_next">下一首</string>
+    <string name="btn_play">播放</string>
+    <string name="btn_pause">暂停</string>
+</resources>
